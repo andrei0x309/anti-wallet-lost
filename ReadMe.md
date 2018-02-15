@@ -24,9 +24,9 @@ What you will need:
  - library needed for compiling
  - Fritzig breadboard sketch
 
-## All Project intruction on the link below
+## All Project instructions on the link below
 
 ## Schematic
-![sketch](/auxiliary/sketch/ anti_wallet_lost_bb.png"sketch")
+![sketch](/auxiliary/sketch/anti_wallet_lost_bb.png?raw=true "Optional Title")
 ### License
 LGPL -  Author [andrei0x309](https://flashsoft.ro)
